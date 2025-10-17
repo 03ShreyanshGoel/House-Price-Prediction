@@ -1,7 +1,5 @@
 # House Price Prediction Project
 
-![Project House Price Prediction](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/12/Machine-Learning-Project-on-House-Price-Prediction.png?fit=1280%2C720&ssl=1)
-
 Welcome to the House Price Prediction Project! This project utilizes Data Science and Machine Learning techniques to predict house prices based on various features.
 
 ---
@@ -16,16 +14,16 @@ Through the magic of Machine Learning, we've developed models that can predict h
 
 ## Features
 
-### 🧹 Data Preprocessing
+### Data Preprocessing
 We've transformed and prepared the dataset, so you don't have to worry about messy data.
 
-### 📈 Data Visualization
+### Data Visualization
 Explore our interactive visualizations to gain insights into how different features impact house prices.
 
-### 🤖 Machine Learning Models
+### Machine Learning Models
 Our project employs state-of-the-art machine learning algorithms, including the Linear Regression Model, Decision Tree Regressor, and Random Forest Regressor, to predict house prices.
 
-### 📊 Evaluation Metrics
+### Evaluation Metrics
 We measure model performance using a variety of metrics such as Root Mean Squared Error (RMSE), Standard Deviation, etc.
 
 ---
@@ -47,11 +45,11 @@ With the project now set up, you're just a few commands away from uncovering the
 
 We invite you to be a part of our exciting project! To get started:-
 
-1) 🍴 Fork the project.
-2) 🌟 Create a new branch for your feature: git checkout -b feature-name
-3) 💡 Commit your changes: git commit -m 'Add some feature'
-4) 🔀 Push to your fork: git push origin feature-name
-5) 🚀 Create a pull request.
+1) Fork the project.
+2) Create a new branch for your feature: git checkout -b feature-name
+3) Commit your changes: git commit -m 'Add some feature'
+4) Push to your fork: git push origin feature-name
+5) Create a pull request.
 
 ---
 
@@ -65,8 +63,6 @@ Got questions or suggestions? We'd love to hear from you! Connect with us, explo
 
 Ready to predict the future of real estate? Let's get started!
 
-🏡 Happy predicting! 🚀
+Happy predicting! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mooazam/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/SMMooazam)
-"# House-Price-Prediction" 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/03shreyanshgoel/])
