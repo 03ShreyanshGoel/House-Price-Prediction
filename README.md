@@ -34,7 +34,7 @@ Provide instructions on how to set up and run your project locally. Include any 
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadMooazam/House-Price-Prediction-Project.git
+git clone https://github.com/03ShreyanshGoel/House-Price-Prediction.git
 ```
 
 With the project now set up, you're just a few commands away from uncovering the secrets of real estate data.
